@@ -1,0 +1,5 @@
+Briefly list any changes you made to your graph class during hw-pathfinder, and why you made those changes.
+changing list format and list assortment as we are not sure that the object has a Comparable class. Edges class is public so we can access Edges' methods. ListEdges only returns edges that has parent equal to the node passed.
+added a method to return a list of edgeLabels from specified parent and child node for driver purpose.
+
+
